@@ -44,7 +44,6 @@ Fiber optic links can be used for transmission of both digital and analog signal
 - The level shifter provides an open collector output stage with a catch diode to prevent transistor saturation.
 
 ---
-
 ## PROCEDURE
 1. Refer to the block diagram and make the required connections.  
 2. Connect the power supply to the Link-B kit with proper polarity and switch ON.  
@@ -67,7 +66,6 @@ Fiber optic links can be used for transmission of both digital and analog signal
 11. JP7 → +5V position.  
 12. Remove fiber from SFH756V (660nm), loosen cap of **SFH450V (950nm)**, insert fiber, and tighten.  
 13. Observe detected signal at **TTL OUT** on oscilloscope.  
-
 ---
 
 ## TABULATION
